@@ -32,4 +32,4 @@ MoodBooster is a responsive web app that curates music playlists based on your m
 
 ---
 
-📌 Made with ❤️ by [Your Name] | Open Source Project
+📌 Made with ❤️SG | Open Source Project
